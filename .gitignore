@@ -8,7 +8,7 @@ build/
 .venv/
 venv/
 
-# Data files (may contain customer data)
+# Data files
 *.csv
 
 # macOS
