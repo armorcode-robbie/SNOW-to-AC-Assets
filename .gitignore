@@ -8,8 +8,11 @@ build/
 .venv/
 venv/
 
-# Data files
+# Data files (may contain customer data)
 *.csv
+
+# Test/demo tooling
+generate_dummy_snow.py
 
 # macOS
 .DS_Store
